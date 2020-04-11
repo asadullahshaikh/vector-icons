@@ -33,7 +33,7 @@ function ExampleView(props) {
         }}>
         <Icon name="add-box" size={50} color="black" />
       </TouchableOpacity>
-
+      <Text style={{fontFamily: 'flower', fontSize: 60}}>lmlfgdl</Text>
       <TouchableOpacity
         style={{
           justifyContent: 'center',
